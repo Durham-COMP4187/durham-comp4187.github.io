@@ -8,7 +8,7 @@ katex: true
 
 The jupyter notebook containing the lecture content can
 be found at: 
-[ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/finite-differences.ipynb)
+[ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/finite-differences.ipynb)
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=33ed20a4-74b2-494a-92b3-add40094b051)
 

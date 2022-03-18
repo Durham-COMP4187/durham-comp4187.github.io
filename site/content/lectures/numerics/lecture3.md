@@ -9,10 +9,10 @@ katex: true
 The jupyter notebook containing the lecture content can
 be found at: 
 
-[ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/time-integration.ipynb)
+[ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/time-integration.ipynb)
 
 We have also begun on a new one, which is at:
-[ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/time-integration-stability-rk.ipynb)
+[ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/time-integration-stability-rk.ipynb)
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=05077749-5fff-4864-b6f2-adc6008449be)
 

@@ -40,7 +40,7 @@ registered on the course in 2020/21.
   look like is, I think, all correct.
 
   Some more detail on parallel scaling laws can be [found
-  here](https://teaching.wence.uk/phys52015/notes/theory/scaling-laws/).
+  here](https://durham-phys52015.github.io/notes/theory/scaling-laws/).
 
   For details on machine (or algorithmic) scaling, and its application
   to PDE solvers, I like [_A performance spectrum for parallel

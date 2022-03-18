@@ -7,9 +7,9 @@ weight: 2
 
 # Lecture 1: finite differences
 
-The lecture will take place over zoom. A calender invite is available on duo. The zoom invite can also be found at [info](https://teaching.wence.uk/comp4187/notes/overview)).
+The lecture will take place over zoom. A calender invite is available on duo. The zoom invite can also be found at [info](https://durham-comp4187.github.io/notes/overview)).
 
-Before the lecture it would be good if you can download the [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/finite-differences.ipynb) and run it. You can see [jupyter](https://teaching.wence.uk/comp4187/setup/jupyter/) for instructions on how to run the notebook.
+Before the lecture it would be good if you can download the [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/finite-differences.ipynb) and run it. You can see [jupyter](https://durham-comp4187.github.io/setup/jupyter/) for instructions on how to run the notebook.
 
 Alternatively, you can run the notebook online without installing python.
 - [finite-differences](https://mybinder.org/v2/gh/wenceorg/comp4187/6cf8af2ec5f16979b62f42ae9f0cbe32206cf03f?filepath=code%2Ffinite-differences.ipynb)
@@ -27,7 +27,7 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 # Lecture 2: finite differences
 
-For this lecture we continued with [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/finite-differences.ipynb).
+For this lecture we continued with [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/finite-differences.ipynb).
 
 The notebook is also available online without installing python.
 - [finite-differences](https://mybinder.org/v2/gh/wenceorg/comp4187/6cf8af2ec5f16979b62f42ae9f0cbe32206cf03f?filepath=code%2Ffinite-differences.ipynb)
@@ -37,7 +37,7 @@ The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/P
 
 # Lecture 3: finite differences
 
-We will be moving on to the next notebook during the next lecture. Before the lecture it would be good if you can download the next [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/finite-difference-II.ipynb) and run it. You can see [jupyter](https://teaching.wence.uk/comp4187/setup/jupyter/) for instructions on how to run the notebook.
+We will be moving on to the next notebook during the next lecture. Before the lecture it would be good if you can download the next [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/finite-difference-II.ipynb) and run it. You can see [jupyter](https://durham-comp4187.github.io/setup/jupyter/) for instructions on how to run the notebook.
 
 Alternatively, you can run the notebook online without installing python.
 - [finite-differences](https://mybinder.org/v2/gh/wenceorg/comp4187/6cf8af2ec5f16979b62f42ae9f0cbe32206cf03f?filepath=code%2Ffinite-difference-II.ipynb)
@@ -53,17 +53,17 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 # Lecture 4: smoothers
 
-In this lecture we will finish covering efficient matrix storage from: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/finite-difference-II.ipynb).
+In this lecture we will finish covering efficient matrix storage from: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/finite-difference-II.ipynb).
 
 Alternatively, you can run the notebook online without installing python.
 - [finite-differences](https://mybinder.org/v2/gh/wenceorg/comp4187/6cf8af2ec5f16979b62f42ae9f0cbe32206cf03f?filepath=code%2Ffinite-difference-II.ipynb)
 
-After that we will start discussing efficient solvers for linear systems. This lecture will cover smoothers: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/smoothers.ipynb).
+After that we will start discussing efficient solvers for linear systems. This lecture will cover smoothers: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/smoothers.ipynb).
 
 Alternatively, you can run the notebook online without installing python.
 - [smoothers-intro](https://mybinder.org/v2/gh/wenceorg/comp4187/6cf8af2ec5f16979b62f42ae9f0cbe32206cf03f?filepath=code%2Fsmoothers.ipynb)
 
-After the lecture have a look at the corresponding [exercise](https://teaching.wence.uk/comp4187/exercises/finite-differences).
+After the lecture have a look at the corresponding [exercise](https://durham-comp4187.github.io/exercises/finite-differences).
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6717899a-763f-4be8-bcc1-ac6200c08514)
 
@@ -78,12 +78,12 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 # Lecture 5: smoothers
 
-This lecture will cover smoothers: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/smoothers.ipynb).
+This lecture will cover smoothers: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/smoothers.ipynb).
 
 Alternatively, you can run the notebook online without installing python.
 - [smoothers-intro](https://mybinder.org/v2/gh/wenceorg/comp4187/6cf8af2ec5f16979b62f42ae9f0cbe32206cf03f?filepath=code%2Fsmoothers.ipynb)
 
-We also started on the multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/2DMultigrid.ipynb)
+We also started on the multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/2DMultigrid.ipynb)
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e994076-b4d2-420f-81cb-ac690100ddd4)
 
@@ -99,7 +99,7 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 # Lecture 6: multigrid
 
-We continue with the multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/2DMultigrid.ipynb)
+We continue with the multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/2DMultigrid.ipynb)
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6afff704-ca7f-4945-81fd-ac7000c10d6e)
 
@@ -116,14 +116,14 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 # Lecture 7: multigrid
 
-We continue with the multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/2DMultigrid.ipynb)
+We continue with the multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/2DMultigrid.ipynb)
 
 The proof for Poisson can be found in:
 - Dietrich Braess and Wolfgang Hackbusch,A New Convergence Proof for the Multi-grid Method including the V-Cycle, SIAM J. Numer. Anal.,20, 967–975, 1983
 
 At this point you may want to have a look at the two exercises:
-1. On two grid: [exercise](https://teaching.wence.uk/comp4187/exercises/two-grid). If you are unused to Fourier-analysis you will find this exercise quite challenging.
-2. and on the construction of the coarse grid operator:  [exercise](https://teaching.wence.uk/comp4187/exercises/coarse-grid)
+1. On two grid: [exercise](https://durham-comp4187.github.io/exercises/two-grid). If you are unused to Fourier-analysis you will find this exercise quite challenging.
+2. and on the construction of the coarse grid operator:  [exercise](https://durham-comp4187.github.io/exercises/coarse-grid)
 
 If you run into any issues, as always, feel free to ask.
 
@@ -143,10 +143,10 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 # Lecture 8: timestepping
 
-We finish the discussion of multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/2DMultigrid.ipynb)
+We finish the discussion of multigrid method: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/2DMultigrid.ipynb)
 
 
-We will begin looking at time-stepping methods (for now in an ODE setting): [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/time-integration.ipynb)
+We will begin looking at time-stepping methods (for now in an ODE setting): [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/time-integration.ipynb)
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6afd69f0-c70c-49ac-8894-ac7e00c3bba4)
 
@@ -166,8 +166,8 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 # Lecture 9: time-stepping
 
-We will finish time-stepping methods (for now in an ODE setting): [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/time-integration.ipynb)
-and: [ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/time-integration-stability-rk.ipynb).
+We will finish time-stepping methods (for now in an ODE setting): [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/time-integration.ipynb)
+and: [ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/time-integration-stability-rk.ipynb).
 
 Please go through the high-order part of the notebook on your own.
 
@@ -192,7 +192,7 @@ The content of the whiteboard can be found below. It is also all contained in th
 
 We will try to combine what we have learned in time-stepping and in spatial discretisations.
 
-[ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/finite-difference-III.ipynb).
+[ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/finite-difference-III.ipynb).
 
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f06b2dc-a82d-47f4-b0d6-ac8c00be4603)

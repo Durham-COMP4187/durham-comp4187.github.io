@@ -23,7 +23,7 @@ course COMP4187.
 
 We'll learn more on how to use Hamilton by doing the various
 exercises, but you may wish to look at this brief [quickstart
-guide](https://teaching.wence.uk/phys52015/setup/hamilton-quickstart/#supercomputing-durham-hamilton-quick-start-guide). 
+guide](https://durham-phys52015.github.io/setup/hamilton-quickstart/#supercomputing-durham-hamilton-quick-start-guide). 
 
 ## MacOS
 

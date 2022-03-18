@@ -8,7 +8,7 @@ katex: true
 
 The jupyter notebook containing the lecture content can
 be found at: 
-[ipython notebook](https://nbviewer.jupyter.org/urls/teaching.wence.uk/comp4187/code/2DMultigrid.ipynb)
+[ipython notebook](https://nbviewer.jupyter.org/urls/durham-comp4187.github.io/code/2DMultigrid.ipynb)
 This notebook contains some material not covered in the lecture.
 
 The video is now available at: [video](https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7d108807-becd-4f7a-b878-adf70094abe2)

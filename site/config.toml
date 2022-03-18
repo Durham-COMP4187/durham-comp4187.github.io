@@ -1,4 +1,4 @@
-baseURL = 'https://teaching.wence.uk/comp4187/'
+baseURL = 'https://durham-comp4187.github.io'
 DefaultContentLanguage = 'en'
 Language = 'en'
 title = 'COMP4187 – Parallel Scientific Computing II'
@@ -36,7 +36,7 @@ BookSearch = false
 BookComments = false
 BookToc = true
 BookLogo = 'logo.svg'
-BookRepo = 'https://github.com/wenceorg/comp4187'
+BookRepo = 'https://github.com/Durham-COMP4187/durham-comp4187.github.io/'
 ModulePage = 'https://www.dur.ac.uk/faculty.handbook/module_description/?year=2021&module_code=COMP4187'
 BookEditPath = 'edit/main'
 contentDir = 'site/content'
